@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Breno Machado",
+      "email": "breno@brenomachado.dev"
+    },
+    {
+      "id": 2,
+      "name": "Maria Luiza",
+      "email": "malu@email.com"
+    }
+  ]
+}
